@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+16 year old student with very limited programming knowledge (some python, html and css).
